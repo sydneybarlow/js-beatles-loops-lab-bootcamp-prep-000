@@ -26,4 +26,5 @@ function iLoveTheBeatles(n) {
     n++
   }
   while (n < 0);
+  return emptyArray
 }
